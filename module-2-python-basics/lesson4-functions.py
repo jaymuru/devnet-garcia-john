@@ -45,8 +45,6 @@ A MISTAKE I MADE (or one I want to avoid)
 ============================================
 Mistake: I forgot to use the return keyword. I tried to use a variable creat it 
 inside the function outside of it which did not work.
-Fix: I learned that variables made inside a function stay trapped inside unless 
-you use 'return' to send them out so they can be saved in a variable.
 
 
 ============================================
