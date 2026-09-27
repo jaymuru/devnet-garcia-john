@@ -1,24 +1,24 @@
 """
 Module 2 — Lesson 3: Loops & Lists
-Student: [your name]
-Date: [date]
+Student: Robert John Garcia
+Date: 9-27-26
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
-[write your own explanation here]
+A list holds many items in one place. A loop repeats actions so you do not 
+have to write them over and over.
 
 
 ============================================
 KEY VOCABULARY
 ============================================
-- list:
-- for loop:
-- while loop:
-- index:
-- iteration:
-(add more as needed)
+- list: A group of items
+- for loop: repeats code for each item.
+- while loop: repeats code while a rule is true.
+- index: number of an items spot
+- iteration: One loop turn
 
 
 ============================================
@@ -28,15 +28,17 @@ Write at least one working example below that you
 came up with yourself — not copied from class.
 """
 
-# --- your code example goes here ---
+food = ["turon", "chicken pops", "kwekwek"]
+
+for food in food:
+    print(food) #Output: turon (then chicken pops, then kwekwek on new lines)
 
 
 """
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
-[what's something confusing or easy to get wrong
-about this topic?]
+I forgot that lists start counting at zero instead of one.
 
 
 ============================================
