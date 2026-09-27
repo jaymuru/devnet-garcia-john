@@ -11,6 +11,7 @@ A variable is a box to save information. A data type tells Python what kind
 of information is inside the box, like a word or a number
 
 
+
 ============================================
 KEY VOCABULARY
 ============================================
