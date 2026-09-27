@@ -29,9 +29,9 @@ Write at least one working example below that you
 came up with yourself — not copied from class.
 """
 
-name = "John"       # string
-age = 20           # int
-price = 10.0       # float
+name = "John"       
+age = 20           
+price = 10.0       
 
 print(name)        # Output: Ana
 print(age)         # Output: 20
