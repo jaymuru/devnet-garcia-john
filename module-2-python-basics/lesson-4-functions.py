@@ -43,7 +43,7 @@ print(room_area)
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
-Mistake: I forgot to use the return keyword. I tried to use a variable creat it 
+I forgot to use the return keyword. I tried to use a variable creat it 
 inside the function outside of it which did not work.
 
 
@@ -51,5 +51,5 @@ inside the function outside of it which did not work.
 HOW THIS CONNECTS TO SOMETHING ELSE
 ============================================
 Functions connect to variables and math operations because they take variables as 
-inputs, perform math or logic on them and output a new value.
+inputs perform math or logic on them and output a new value.
 """
